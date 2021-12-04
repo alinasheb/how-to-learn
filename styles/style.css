@@ -24,7 +24,6 @@
   left: 64px;
   font-size: 102px;
   line-height: 96px;
-  font-size: 102px;
   font-weight: bold;
   width: 730px;
   margin-left: 64px;
@@ -93,8 +92,6 @@ z-index: 1;
    margin-bottom: 100px;
 }
   .two-columns {
-  position: relative;
-  width: 80%;
   position: relative;
   margin: 0 auto;
   width: 80%;
@@ -188,7 +185,6 @@ z-index: 1;
 }
 
 .table__text_author{
-  margin-top: 20px;
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
