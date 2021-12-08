@@ -92,6 +92,8 @@
 /*description*/
 
 .description {
+  display: flex;
+  flex-direction: row;
   margin-top: 100px;
 }
 
@@ -138,6 +140,8 @@
 /*digits*/
 
 .digits {
+  display: flex;
+  flex-direction: column;
   position: relative;
   margin-top: 100px;
   margin-bottom: 100px;
@@ -209,6 +213,8 @@
 /*feynman*/
 
 .feynman {
+  display: flex;
+  flex-direction: column;
   position: relative;
   height: 890px;
   background-color: #f2f2f2;
@@ -251,6 +257,8 @@
 /*kaufman*/
 
 .kaufman {
+  display: flex;
+  flex-direction: column;
   position: relative;
   overflow: hidden;
   padding-top: 90px;
