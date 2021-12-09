@@ -85,7 +85,7 @@
   width: 183px;
 }
 
-.logo_plase_header {
+.logo_place_header {
   background-image: url(..//images/logo_place_header.svg);
   height: 32px;
   position: absolute;
@@ -301,7 +301,7 @@
   color: #fff;
 }
 
-.kaufman-triangle {
+.kaufman__triangle {
   position: absolute;
   right: -210px;
   top: 0;
@@ -348,7 +348,7 @@
   margin-left: 0;
 }
 
-.logo_plase_footer {
+.logo_place_footer {
   display: flex;
   background-image: url(..//images/logo_place_footer.svg);
   height: 35px;
@@ -375,7 +375,6 @@
 }
 
 .footer__author {
-
   margin-bottom: 18px;
   margin-top: 18px;
   line-height: 25px;
@@ -385,7 +384,7 @@
 
 .footer__column-heading {
   align-self: flex-start;
-  margin-left: 0;
+  margin: 0 0 20px 0;
   padding-left: 0;
   line-height: 30px;
   font-size: 18px;
@@ -401,7 +400,7 @@
 
 .footer__column-links {
   align-self: flex-start;
-  margin-left: 0;
+  margin: 0 0 16px 0;
   padding-left: 0;
   list-style-type: none;
   line-height: 30px;
