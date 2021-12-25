@@ -1,5 +1,6 @@
 .video__iframe {
 position: relative;
 z-index: 1;
+border: none;
 }
 
