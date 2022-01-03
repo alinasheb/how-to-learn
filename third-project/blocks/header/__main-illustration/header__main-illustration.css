@@ -1,6 +1,6 @@
 .header__main-illustration {
   position: absolute;
-  object-fit: contain;
+  object-fit: cover;
   object-position: right bottom;
   right: 0;
   bottom: 0;
