@@ -17,9 +17,7 @@
 
 <h2>Инструкция по установке:</h2>
 <p>Для возможности работы или более детального ознакомления с этим проектом необходимо клонировать репозиторий:
-```
-git clone git@github.com:alinasheb/how-to-learn.git 
-```
+```git clone git@github.com:alinasheb/how-to-learn.git ```
 </p>
 
 <ul><h2>Планы по доработке проекта:</h2>
